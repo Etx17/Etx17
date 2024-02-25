@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Etienne</h1>
+
+
+
 <p align="center">
   <img alt="Coding" src="https://www.thoughtwin.com/assets/img/ruby-img.gif" width="40%"/>
 </p>
-
+<h1 align="center">Hi 👋, I'm Etienne</h1>
 <p align="center">
 Active member of Ruby Paris 💎 and React Native Paris ⚛️, I surely will meet you there as I love their events (and their pizzas 🍕)  
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=etx17&show_icons=true&locale=en&layout=compact" alt="etx17" style="display: inline-block; height: 195px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=etx17&" alt="etx17" style="display: inline-block; height: 195px;"/>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <table>
 <tr>
