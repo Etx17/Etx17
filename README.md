@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etx17" alt="etx17" /></a> </p>
 
-- 🔭 I’m currently working on [Musicast](https://musikast-82132e3e7f32.herokuapp.com/)
+- 🔭 I’m currently working on my side project [Musicast](https://musikast-82132e3e7f32.herokuapp.com/)
 
-- 📫 How to reach me **etiennededi@hotmail.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
