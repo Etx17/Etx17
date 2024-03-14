@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <p align="center">
-Active member of Ruby Paris 💎 and React Native Paris ⚛️, I surely will meet you there as I love their events (and their pizzas 🍕)  
+Active member of Ruby Paris 💎 and React Native Paris ⚛️, I surely will meet you there as I love their events (and their pizzas 🍕). <br>Modest contributor of Meta/react-native (check out their umbrella issues, great to start contributing) and Caley.io
 </p>
 
 <p align="center">
